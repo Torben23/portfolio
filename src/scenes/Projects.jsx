@@ -80,7 +80,7 @@ const Projects = () => {
           <Project title="Project 2" resume="Restaurant menu" />
             </a>
               
-           <a href={`https://ia-images.marcosberton.repl.co`} target="_blank" rel="noopener noreferrer">
+           <a href={`https://ia-images.netlify.app/`} target="_blank" rel="noopener noreferrer">
           <Project title="Project 3" resume="IA images with they respective prompt" />
             </a>
              
