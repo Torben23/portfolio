@@ -101,7 +101,7 @@ const Projects = () => {
 
             {/* ROW 3 */}
           
-          <a href={`https://clock.marcosberton.repl.co`} target="_blank" rel="noopener noreferrer">
+          <a href={`analog-clock-2.netlify.app`} target="_blank" rel="noopener noreferrer">
           <Project title="Project 7" resume="React Js Analog Clock" />
             </a>
 
