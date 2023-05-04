@@ -62,7 +62,7 @@ const Projects = () => {
       </motion.div>
 
       {/* PROJECTS */}
-      <div className="flex justify-center">
+       <div className="flex justify-center flex-direction: column">
         <motion.div
           className="sm:grid sm:grid-cols-3"
           variants={container}
