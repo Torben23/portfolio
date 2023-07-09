@@ -86,7 +86,7 @@ const Landing = ({ setSelectedPage }) => {
         rel="noreferrer"
           >
             <div className="bg-deep-blue hover:text-red transition duration-500 w-full h-full flex items-center justify-center px-10 font-playfair">
-              LinkdIn
+              LinkedIn
             </div>
           </a>
         </motion.div>
